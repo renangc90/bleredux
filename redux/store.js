@@ -1,5 +1,4 @@
 // .redux/store.js
-
 import { configureStore } from "@reduxjs/toolkit";
 import heartRateReducer from "./heartRateSlice";
 
